@@ -1,4 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Introduction](README.md)
+* [Pilot](pilot.md)
+* [Blog](https://thomascountz.com)
 
