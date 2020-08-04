@@ -19,16 +19,16 @@ description: >-
 | Component Shop DK | shop | [https://www.trab.dk/da/](https://www.trab.dk/da/) |
 | ESP-01 Guide | esp-01 | [https://medium.com/@aallan/getting-started-with-the-esp8266-270e30feb4d1](https://medium.com/@aallan/getting-started-with-the-esp8266-270e30feb4d1) |
 | Paper about ESP-01 and MPU-6050 | esp-01, mpu-6050 | [https://www.diva-portal.org/smash/get/diva2:1104261/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2:1104261/FULLTEXT01.pdf) |
-| iSpindle Repo | github, iSpindle | [https://github.com/universam1/iSpindel](https://github.com/universam1/iSpindel) |
+| iSpindle Repo | github, iSpindel | [https://github.com/universam1/iSpindel](https://github.com/universam1/iSpindel) |
 | Hydometers | hydrometers, wikipedia | [https://en.wikipedia.org/wiki/Hydrometer](https://en.wikipedia.org/wiki/Hydrometer) |
 | ESP-01 | esp-01, wikipedia | [https://en.wikipedia.org/wiki/ESP8266\#Pinout\_of\_ESP-01](https://en.wikipedia.org/wiki/ESP8266#Pinout_of_ESP-01) |
 | Tilt Hydrometer Website | tilt | [https://tilthydrometer.com/](https://tilthydrometer.com/) |
 | U.S. Patent \#US20140260607A1 | tilt | [https://patents.google.com/patent/US20140260607A1/en](https://patents.google.com/patent/US20140260607A1/en) |
 | Brew Perfect Website | brew perfect | [https://www.brewperfect.com](https://www.brewperfect.com) |
-| iSpindle Documentation | github, iSpindle | [https://github.com/universam1/iSpindel/blob/master/docs/README\_en.md](https://github.com/universam1/iSpindel/blob/master/docs/README_en.md) |
+| iSpindle Documentation | github, iSpindel | [https://github.com/universam1/iSpindel/blob/master/docs/README\_en.md](https://github.com/universam1/iSpindel/blob/master/docs/README_en.md) |
 | ESP8266 Getting Started | esp8266 | [https://medium.com/@aallan/getting-started-with-the-esp8266-270e30feb4d1](https://medium.com/@aallan/getting-started-with-the-esp8266-270e30feb4d1) |
 | Gyroscope tracking 3D-motion via WIFI - Volker Ziemann | esp-01, mpu-6050, white paper | [https://www.diva-portal.org/smash/get/diva2:1104261/FULLTEXT01.pdf](https://www.diva-portal.org/smash/get/diva2:1104261/FULLTEXT01.pdf) |
-| Original iSpindle HomeBrew Talk thread | iSpindle | [https://www.homebrewtalk.com/threads/ispindle-diy-electronic-hydrometer.598187/](https://www.homebrewtalk.com/threads/ispindle-diy-electronic-hydrometer.598187/) |
+| Original iSpindle HomeBrew Talk thread | iSpindel | [https://www.homebrewtalk.com/threads/ispindle-diy-electronic-hydrometer.598187/](https://www.homebrewtalk.com/threads/ispindle-diy-electronic-hydrometer.598187/) |
 | Stability of Floating Bodies | mechanics, white paper | [https://www.eng.uwo.ca/people/esavory/STABILITY OF FLOATING BODIES.pdf](https://www.eng.uwo.ca/people/esavory/STABILITY%20OF%20FLOATING%20BODIES.pdf) |
 | Principles of Stability | mechanics | [https://fas.org/man/dod-101/navy/docs/swos/dca/stg4-01.html](https://fas.org/man/dod-101/navy/docs/swos/dca/stg4-01.html) |
 | Polyethylene Terephthalate \(PET\) | materials | [https://omnexus.specialchem.com/selection-guide/polyethylene-terephthalate-pet-plastic](https://omnexus.specialchem.com/selection-guide/polyethylene-terephthalate-pet-plastic) |
@@ -36,4 +36,5 @@ description: >-
 | High Density Polyethylene \(HDPE\) | materials | [https://omnexus.specialchem.com/selection-guide/polyethylene-plastic\#HDPE](https://omnexus.specialchem.com/selection-guide/polyethylene-plastic#HDPE) |
 | ESP-01 WIFI Module | datasheet | [http://www.microchip.ua/wireless/esp01.pdf](http://www.microchip.ua/wireless/esp01.pdf) |
 | ESP-01 I2C | esp-01, i2c | [https://www.forward.com.au/pfod/ESP8266/GPIOpins/ESP8266\_01\_pin\_magic.html](https://www.forward.com.au/pfod/ESP8266/GPIOpins/ESP8266_01_pin_magic.html) |
+| iSpindle Calibration | iSpindel | [www.ispindel.de/tools/calibration/calibration.htm](www.ispindel.de/tools/calibration/calibration.htm) |
 
