@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [System Design](system-design.md)
 * [I²C Protocol](i-c-protocol.md)
 * [Blog](https://thomascountz.com)
 
