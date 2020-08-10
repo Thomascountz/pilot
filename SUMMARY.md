@@ -4,11 +4,10 @@
 * [System Design](system-design.md)
 * [I²C Protocol](i-c-protocol/README.md)
   * [Physical Bus](i-c-protocol/physical-bus.md)
-  * [Physical Protocol](i-c-protocol/physical-protocol.md)
   * [Leaders & Followers](i-c-protocol/leaders-and-followers.md)
+  * [Physical Protocol](i-c-protocol/physical-protocol.md)
   * [References](i-c-protocol/references.md)
 * [Most and Least Significant Bit](most-and-least-significant-bit.md)
-* [Blog](https://thomascountz.com)
 
 ## Projects
 
