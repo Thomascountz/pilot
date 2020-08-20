@@ -15,6 +15,9 @@
 
 ## Projects
 
+* [Today I Learned](projects/today-i-learned/README.md)
+  * [Force Push Git Branches Safely](projects/today-i-learned/force-push-git-branches-safely.md)
+  * [Use 'diffthis' to Compare Vim Buffers](projects/today-i-learned/use-diffthis-to-compare-vim-buffers.md)
 * [Pilot](projects/pilot/README.md)
   * [Hydrometers](projects/pilot/hydrometers.md)
   * [Inspiration & Prior Art](projects/pilot/inspiration-and-prior-art.md)
