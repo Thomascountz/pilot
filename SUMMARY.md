@@ -8,6 +8,10 @@
   * [Physical Protocol](i-c-protocol/physical-protocol.md)
   * [References](i-c-protocol/references.md)
 * [Most and Least Significant Bit](most-and-least-significant-bit.md)
+* [Data Science](data-science/README.md)
+  * [Cost Functions](data-science/cost-functions/README.md)
+    * [L1 Norm](data-science/cost-functions/l1-norm.md)
+    * [L2 Norm](data-science/cost-functions/l2-norm.md)
 
 ## Projects
 
