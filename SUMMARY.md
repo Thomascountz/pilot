@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Today I Learned](today-i-learned/README.md)
+  * [Accessing Top-Level Namespace Objects in Ruby](today-i-learned/accessing-top-level-namespace-objects-in-ruby.md)
   * [Force Push Git Branches Safely](today-i-learned/force-push-git-branches-safely.md)
   * [Use 'diffthis' to Compare Vim Buffers](today-i-learned/use-diffthis-to-compare-vim-buffers.md)
 * [System Design](system-design.md)
