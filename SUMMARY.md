@@ -1,6 +1,8 @@
 # Table of contents
 
 * [Introduction](README.md)
+* [Web Application Security](web-application-security/README.md)
+  * [SQL Injection](web-application-security/sql-injection.md)
 * [Today I Learned](today-i-learned/README.md)
   * [Accessing Top-Level Namespace Objects in Ruby](today-i-learned/accessing-top-level-namespace-objects-in-ruby.md)
   * [Force Push Git Branches Safely](today-i-learned/force-push-git-branches-safely.md)
