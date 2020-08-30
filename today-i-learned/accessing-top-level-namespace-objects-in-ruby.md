@@ -20,5 +20,5 @@ module Moderator
 end
 ```
 
-In the above example, using `::` ensure that we're calling the `User` class in the top-level namespace. Without the double colon, `User.find` is equivilant to `Moderator::User.find`.
+In the above example, using `::` ensure that we're calling the `User` class in the top-level namespace. Without the double colon, `User.find` is equivalent to `Moderator::User.find`.
 

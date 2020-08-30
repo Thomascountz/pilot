@@ -1,2 +1,2 @@
-# System Design
+# Distributed Systems
 
