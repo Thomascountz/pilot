@@ -48,9 +48,7 @@ Without testing, it’s difficult to know for sure if a glass alternative to pet
 
 ## Housing for Electronics
 
-{% hint style="warning" %}
-_TODO: Once a bill of materials has been finalized I can design an appropriate housing._
-{% endhint %}
+⚠️ _**TODO**: Once a bill of materials has been finalized I can design an appropriate housing._
 
 ### iSpindle
 
