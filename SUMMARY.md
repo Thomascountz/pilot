@@ -33,6 +33,7 @@
     * [Build the MVP Canvas](product-inception/lean-inception/build-the-mvp-canvas.md)
     * [Showcase](product-inception/lean-inception/showcase.md)
   * [Breadboarding](product-inception/breadboarding.md)
+* [Our Team Workplace](our-team-workplace.md)
 
 ## Projects
 
