@@ -19,6 +19,20 @@
   * [Cost Functions](data-science/cost-functions/README.md)
     * [L1 Norm](data-science/cost-functions/l1-norm.md)
     * [L2 Norm](data-science/cost-functions/l2-norm.md)
+* [Product Inception](product-inception/README.md)
+  * [Agile Inception Deck](product-inception/agile-inception-deck.md)
+  * [Lean Inception](product-inception/lean-inception/README.md)
+    * [Product Vision](product-inception/lean-inception/product-vision.md)
+    * [The Product Is and Is Not](product-inception/lean-inception/the-product-is-and-is-not.md)
+    * [Describe the Personas](product-inception/lean-inception/describe-the-personas.md)
+    * [Discover the Features](product-inception/lean-inception/discover-the-features.md)
+    * [Technical & Business Review](product-inception/lean-inception/technical-and-business-review.md)
+    * [Show the User Jouney](product-inception/lean-inception/show-the-user-jouney.md)
+    * [Display Features in Journeys](product-inception/lean-inception/display-features-in-journeys.md)
+    * [Sequence the Features](product-inception/lean-inception/sequence-the-features.md)
+    * [Build the MVP Canvas](product-inception/lean-inception/build-the-mvp-canvas.md)
+    * [Showcase](product-inception/lean-inception/showcase.md)
+  * [Breadboarding](product-inception/breadboarding.md)
 
 ## Projects
 
