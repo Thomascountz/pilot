@@ -4,6 +4,7 @@
 * [Web Application Security](web-application-security/README.md)
   * [SQL Injection](web-application-security/sql-injection.md)
 * [Today I Learned](today-i-learned/README.md)
+  * [Ruby Benchmark — Iterations per Second](today-i-learned/ruby-benchmark-iterations-per-second.md)
   * [Git Autocorrect](today-i-learned/git-autocorrect.md)
   * [Accessing Top-Level Namespace Objects in Ruby](today-i-learned/accessing-top-level-namespace-objects-in-ruby.md)
   * [Force Push Git Branches Safely](today-i-learned/force-push-git-branches-safely.md)
@@ -35,6 +36,7 @@
 * [Product Design](product-design/README.md)
   * [Breadboarding](product-design/breadboarding.md)
 * [Our Team Workplace](our-team-workplace.md)
+* [📘 Notes from Accelerate](notes-from-accelerate.md)
 
 ## Projects
 
