@@ -1,4 +1,4 @@
-# Ruby Benchmark — Iterations per Second
+# Ruby Benchmarking — Iterations per Second
 
 {% embed url="https://github.com/evanphx/benchmark-ips" %}
 
@@ -6,37 +6,45 @@
 
 ### Example
 
-This example is from [Aaron Pattersons' Variety Show \(RailsConf 2020.2 Talk\)](https://railsconf.com/2020/video/aaron-patterson-aaron-patterson-s-variety-show)
+`Array#map` vs `Array#each`
 
 ```ruby
 require 'benchmark/ips'
 
-Benmarck.ips do |x|
-  x.report("where with ids") do
-    Post.where(id: ids)
+numbers = [1, 2, 3, 4, 5]
+
+Benchmark.ips do |benchmark|
+  benchmark.config(time: 5, warmup: 2)
+
+  benchmark.report("map") do
+    numbers.map { |number| number + 1 }
   end
-  
-  x.report("where with sanitize") do
-    Post.where(ActiveRecord::Base.sanitize_sql(["id IN ?"), ids])
+
+  benchmark.report("each") do
+    new_numbers = []
+    numbers.each do |number|
+      new_numbers << number + 1
+    end
   end
-  
-  x.compare!
+
+  benchmark.compare!
 end
 ```
 
 #### Results
 
 ```text
-Warming up -------------------------------------
-       where with ids     81.000    i/100ms
-  where with sanitize    146.000    i/100ms
-Calculating ------------------------------------
-       where with ids     793.197  (± 3.9%) i/s -     3.969k in 5.011711s
-  where with sanatize       1.377k (± 8.5%) i/s -     6.862k in 5.030918s
-
+Warming up --------------------------------------
+                 map   307.475k i/100ms
+                each   269.392k i/100ms
+Calculating -------------------------------------
+                 map      3.127M (± 0.7%) i/s -     15.681M in   5.014498s
+                each      2.745M (± 1.3%) i/s -     13.739M in   5.006861s
 
 Comparison:
-       where with ids     1376.6 i/s
-  where with sanitize      793.2 i/s - 1.74x slower
+                 map:  3127347.5 i/s
+                each:  2744536.5 i/s - 1.14x  (± 0.00) slower
 ```
+
+Learned from [Aaron Pattersons' Variety Show \(RailsConf 2020.2 Talk\)](https://railsconf.com/2020/video/aaron-patterson-aaron-patterson-s-variety-show)
 
