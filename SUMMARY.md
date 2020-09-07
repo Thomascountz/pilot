@@ -37,6 +37,7 @@
 * [Product Design](product-design/README.md)
   * [Breadboarding](product-design/breadboarding.md)
 * [Our Team Workplace](our-team-workplace.md)
+* [Ruby Profiling & Benchmarking](ruby-profiling-benchmarking.md)
 * [📘 Notes from Accelerate](notes-from-accelerate.md)
 
 ## Projects
