@@ -2,7 +2,7 @@
 
 Communication across the bus begins when the leader sends out a **start sequence**, which followed by an **address frame**. Once acknowledged, then comes one ore more 8-bit **data frames** \(which are each followed by an **acknowledgement bit**\). Finally the communication concludes with the leader sending a **stop sequence**.
 
-![source: Sparkfun electronics](../.gitbook/assets/i2c.png)
+![source: Sparkfun electronics](../../.gitbook/assets/i2c.png)
 
 ## Start Sequence
 
