@@ -6,8 +6,9 @@ description: Cultural Reflection and Iteration Activity
 
 ### Agenda
 
-| :05 | Introductions |
+| Timing | Activity |
 | :--- | :--- |
+| :05 | Introductions |
 | :15 | Hopes, Fears, & Questions |
 | :15 | Strengths & Weaknesses |
 | :05 | Introspection |

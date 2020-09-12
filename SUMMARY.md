@@ -4,6 +4,7 @@
 * [Web Application Security](web-application-security/README.md)
   * [SQL Injection](web-application-security/sql-injection.md)
 * [Today I Learned](today-i-learned/README.md)
+  * [Responsive Web: Setting the Viewport](today-i-learned/responsive-web-setting-the-viewport.md)
   * [Ruby Profiling — Stackprof](today-i-learned/ruby-profiling-stackprof.md)
   * [Ruby Benchmarking — Iterations per Second](today-i-learned/ruby-benchmark-iterations-per-second.md)
   * [Git Autocorrect](today-i-learned/git-autocorrect.md)
