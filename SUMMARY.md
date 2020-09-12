@@ -40,6 +40,7 @@
   * [Breadboarding](product-design/breadboarding.md)
 * [Our Team Workplace](our-team-workplace.md)
 * [Ruby Profiling & Benchmarking](ruby-profiling-benchmarking.md)
+* [Publications to Follow](publications-to-follow.md)
 
 ## Projects
 
